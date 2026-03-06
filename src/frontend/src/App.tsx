@@ -101,6 +101,7 @@ When I'm not coding, I write about engineering culture, mentor early-career deve
     },
   ],
   contacts: [
+    { platform: "Website", url: "https://naveenkumar.caffeine.xyz" },
     { platform: "GitHub", url: "https://github.com" },
     { platform: "LinkedIn", url: "https://linkedin.com" },
     { platform: "Twitter", url: "https://twitter.com" },
