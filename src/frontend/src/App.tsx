@@ -105,7 +105,7 @@ When I'm not coding, I write about engineering culture, mentor early-career deve
     { platform: "GitHub", url: "https://github.com" },
     { platform: "LinkedIn", url: "https://linkedin.com" },
     { platform: "Twitter", url: "https://twitter.com" },
-    { platform: "Email", url: "mailto:hello@alexandra.dev" },
+    { platform: "Email", url: "mailto:d.naveenkumar1357@gmail.com" },
   ],
 };
 
